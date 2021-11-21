@@ -1,0 +1,311 @@
+.row {
+    padding-bottom: 5px;
+}
+
+.container {
+    background-color: #eaeaea;
+}
+
+.tab {
+    display: none;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+/* Mark the active step: */
+.step.active {
+    opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+    background-color: #4CAF50;
+}
+
+.info {
+    position: relative;
+    display: inline-block;
+}
+
+ol {
+    padding: 5px 20px;
+    list-style-type: auto;
+}
+
+ul {
+    padding: 5px 20px;
+    list-style-type: disc;
+}
+
+.info .infotext {
+    visibility: hidden;
+    width: auto;
+    background-color: white;
+    color: #000;
+    text-align: left;
+    border-radius: 6px;
+    padding: 2px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 105%;
+    margin-right: 16px;
+}
+
+.info .infotextBtn {
+    visibility: hidden;
+    width: 250%;
+    background-color: white;
+    color: #000;
+    text-align: center;
+    border-radius: 6px;
+    padding: 2px;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 105%;
+}
+
+.title span {
+    color: #f14836;
+    display: contents;
+}
+
+p.text {
+    color: #000;
+}
+
+dipa {
+    display: block;
+    float: left;
+    word-wrap: break-word;
+    max-width: 300px;
+    white-space: normal;
+}
+
+#noResult {
+    margin-top: 10px;
+}
+
+.info:hover .infotext {
+    visibility: visible;
+}
+
+.info:hover .infotextBtn {
+    visibility: visible;
+}
+
+.multiselect-native-select > .open > .dropdown-menu {
+    display: none;
+}
+
+.btn-group > .btn {
+    min-width: 175px;
+}
+
+.sel {
+    background-color: #666666;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%; /* Could be more or less, depending on screen size */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#tab0:not(.active) {
+    display: none !important;
+}
+
+span.multiselect-selected-text {
+    max-width: 300px;
+    white-space: normal;
+}
+
+.showDetailed .detailed {
+    display: none
+}
+
+.showDetailed:hover .detailed {
+    display: block
+}
+
+a.back-to-top {
+    background-color: #1d4381;
+}
+
+@media (min-width: 992px) {
+    img.logo {
+        max-height: 70px;
+        padding-left: 5px;
+    }
+}
+
+@media (min-width: 1200px) {
+    img.logo {
+        max-height: 80px;
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 992px) {
+    img.wid {
+        max-height: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    img.wid {
+        max-height: 60px;
+    }
+}
+
+.btn-primary {
+    min-width: 110px;
+}
+
+.hide {
+    display: none;
+}
+
+div > nav.navbar {
+    padding: 0;
+    margin: 0;
+}
+
+.contact-color-0 .contact-info-icon i {
+    background-color: #1d4381;
+}
+
+h5.title {
+    font-size: 24px;
+}
+
+h3.title {
+    font-weight: bold;
+    color: #1d4381;
+}
+
+p.text a {
+    color: #1d4381;
+}
+
+.stretch {
+    width: 100%;
+    height: auto;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+}
+
+a.navbar-brand {
+    padding-right: 0;
+    padding-left: 0;
+
+}
+
+.navbar-nav li.nav-item {
+    margin-left: 15px;
+    width: 100%;
+    max-width: 100px;
+    text-align: center;
+}
+
+.navbar-nav .nav-item a {
+    font-size: 14px;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.navbar-btn {
+    min-width: 350px;
+}
+
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+    width: 100%;
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+}
+
+.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    float: right;
+    margin-left: 5px;
+}

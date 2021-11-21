@@ -1,0 +1,50 @@
+Meaning of weights*compensation rates#Meaning of weights*compensation rates
+Meaning of weights*importance coefficients#Meaning of weights*importance coefficients
+Temporal discounting*yes#Temporal discounting*yes
+Temporal discounting*no#Temporal discounting*no
+Cultural differentiations*yes#Cultural differentiations*yes
+Cultural differentiations*no#Cultural differentiations*no
+Independence from the set of systems being evaluated*yes, weights should be independent from the set of systems being evaluated#Independence from the set of systems being evaluated*yes, weights should be independent from the set of systems being evaluated
+Independence from the set of systems being evaluated*no, weights can be dependent on the set of systems being evaluated#Independence from the set of systems being evaluated*no, weights can be dependent on the set of systems being evaluated
+Reproducibility of the weights*replicates should provide same/similar results#Reproducibility of the weights*replicates should provide same/similar results
+Reproducibility of the weights*replicates can also provide quite (~ 10%) similar results#Reproducibility of the weights*replicates can also provide quite (~ 10%) similar results
+Reproducibility of the weights*replicates do not need to provide similar results#Reproducibility of the weights*replicates do not need to provide similar results
+Scientific validity*published in a peer-reviewed journal or book#Scientific validity*published in a peer-reviewed journal or book
+Scientific validity*published in peer-reviewed conference proceedings#Scientific validity*published in peer-reviewed conference proceedings
+Scientific validity*not peer-reviewed is fine#Scientific validity*not peer-reviewed is fine
+Method transparency*all method algorithms and value choices should be explained#Method transparency*all method algorithms and value choices should be explained
+Method transparency*method algorithms and value choices can be partly explained#Method transparency*method algorithms and value choices can be partly explained
+Method transparency*no transparency is needed, no method algorithms or value choices need to be explained#Method transparency*no transparency is needed, no method algorithms or value choices need to be explained
+Coverage of glam areas of protection*all glam areas of protection should be covered#Coverage of glam areas of protection*all glam areas of protection should be covered
+Coverage of glam areas of protection*not all glam areas of protection can be covered#Coverage of glam areas of protection*not all glam areas of protection can be covered
+Uncertainty characterization*the uncertainties should be characterized stochastically#Uncertainty characterization*the uncertainties should be characterized stochastically
+Uncertainty characterization*the uncertainties should be characterized, but stochastic characterization is not required#Uncertainty characterization*the uncertainties should be characterized, but stochastic characterization is not required
+Uncertainty characterization*characterization of uncertainties is not required#Uncertainty characterization*characterization of uncertainties is not required
+Communicability*the meaning and calculation of the weights must be easy to communicate#Communicability*the meaning and calculation of the weights must be easy to communicate
+Communicability*at least, the meaning and calculation of the weights should not be hard to communicate#Communicability*at least, the meaning and calculation of the weights should not be hard to communicate
+Communicability*the communication of the meaning and calculation of the weights is not a concern#Communicability*the communication of the meaning and calculation of the weights is not a concern
+Accounting for differences in utility for the same impact*the method can assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility#Accounting for differences in utility for the same impact*the method can assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility
+Accounting for differences in utility for the same impact*the method cannot assign / should not assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility#Accounting for differences in utility for the same impact*the method cannot assign / should not assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility
+Area of protection metrics*weights should be directly related or relatable to the area of protection metrics#Area of protection metrics*weights should be directly related or relatable to the area of protection metrics
+Area of protection metrics*weights are not directly related, but can be adapted to relate to the area of protection metrics#Area of protection metrics*weights are not directly related, but can be adapted to relate to the area of protection metrics
+Area of protection metrics*weights are not directly related or relatable to the area of protection metrics#Area of protection metrics*weights are not directly related or relatable to the area of protection metrics
+Geographical resolution*national differentiation#Geographical resolution*national differentiation
+Geographical resolution*continental differentiation#Geographical resolution*continental differentiation
+Geographical resolution*no geographical differentiation#Geographical resolution*no geographical differentiation
+Global coverage*global weights should be obtained#Global coverage*global weights should be obtained
+Global coverage*global weights can be calculated from non-global weights#Global coverage*global weights can be calculated from non-global weights
+Global coverage*no global weights are needed#Global coverage*no global weights are needed
+Application demonstrated in case studies*widely used in case studies#Application demonstrated in case studies*widely used in case studies
+Application demonstrated in case studies*used just in a few (e.g., three or four) case studies#Application demonstrated in case studies*used just in a few (e.g., three or four) case studies
+Application demonstrated in case studies*it is ok if it has not been used in any case studies#Application demonstrated in case studies*it is ok if it has not been used in any case studies
+Available resources to apply the method*limited time, cost and manpower available#Available resources to apply the method*limited time, cost and manpower available
+Available resources to apply the method*notable time and/or cost and/or manpower available#Available resources to apply the method*notable time and/or cost and/or manpower available
+Available resources to apply the method*extensive time, cost and manpower available#Available resources to apply the method*extensive time, cost and manpower available
+Available technical and calculation infrastructure*simple infrastructure#Available technical and calculation infrastructure*simple infrastructure
+Available technical and calculation infrastructure*both simple and complex infrastructure#Available technical and calculation infrastructure*both simple and complex infrastructure
+Available technical and calculation infrastructure*complex infrastructure#Available technical and calculation infrastructure*complex infrastructure
+Representativeness*the method should work with a representative sample of the affected population#Representativeness*the method should work with a representative sample of the affected population
+Representativeness*the method does not need to work with a representative sampling of the affected population#Representativeness*the method does not need to work with a representative sampling of the affected population
+Bias*no known biases can be accepted#Bias*no known biases can be accepted
+Bias*known biases that can be corrected can be accepted#Bias*known biases that can be corrected can be accepted
+Bias*known biases that cannot be corrected can be accepted#Bias*known biases that cannot be corrected can be accepted

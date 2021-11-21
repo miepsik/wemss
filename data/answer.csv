@@ -1,0 +1,51 @@
+option#tooltip
+Meaning of weights*compensation rates#They indicate the weight of one unit in the respective impact category indicator result (e.g., per 1 kg of CO2 equivalents or 1 kg of SO2 equivalents). If Wx is the weight of 1 unit in impact category indicator x and Wy is the weight of 1 unit in impact category indicator y, then 1 unit of x is worth the same as (Wx/Wy) units in y. This type of weighting factor is used by methods where being better in one impact category indicator result can compensate for being worse in another impact category indicator. For example, W could be USD/CO2-eq for climate change or €/DALY for respiratory inorganics. Other examples are the W of climate change expressed in kg of CO2-eq with a weight of 1 and the W of acidification per kg of SO2-eq with a weight of 2. This expression means that the improvement of 2 units (i.e., 2 kg of CO2-eq) of climate change compensates for the worsening of 1 unit (i.e., 1 kg of SO2-eq) of acidification.
+Meaning of weights*importance coefficients#They indicate the intrinsic importance of the impact indicator itself when comparing two or more alternatives. If an impact category indicator is given more weight than another one, then it is more important to be better in this impact category indicator than in another. This type of weighting factor is used by methods where being better in one impact category indicator result may or may not fully compensate for being worse in another impact indicator. For example, W for climate change could be 35%, W for ozone depletion could be 15% and W for eutrophication could be 20%, etc., with the meaning that being better in terms of climate change (alone) is as important as being better in terms of ozone depletion and eutrophication (simultaneously).
+Temporal discounting*yes#null
+Temporal discounting*no#null
+Cultural differentiations*yes#null
+Cultural differentiations*no#null
+Independence from the set of systems being evaluated*yes, weights should be independent from the set of systems being evaluated#null
+Independence from the set of systems being evaluated*no, weights can be dependent on the set of systems being evaluated#null
+Reproducibility of the weights*replicates should provide same/similar results#null
+Reproducibility of the weights*replicates can also provide quite (~ 10%) similar results#null
+Reproducibility of the weights*replicates do not need to provide similar results#null
+Scientific validity*published in a peer-reviewed journal or book#null
+Scientific validity*published in peer-reviewed conference proceedings#null
+Scientific validity*not peer-reviewed is fine#null
+Method transparency*all method algorithms and value choices should be explained#null
+Method transparency*method algorithms and value choices can be partly explained#null
+Method transparency*no transparency is needed, no method algorithms or value choices need to be explained#null
+Coverage of glam areas of protection*all glam areas of protection should be covered#null
+Coverage of glam areas of protection*not all glam areas of protection can be covered#null
+Uncertainty characterization*the uncertainties should be characterized stochastically#null
+Uncertainty characterization*the uncertainties should be characterized, but stochastic characterization is not required#null
+Uncertainty characterization*characterization of uncertainties is not required#null
+Communicability*the meaning and calculation of the weights must be easy to communicate#null
+Communicability*at least, the meaning and calculation of the weights should not be hard to communicate#null
+Communicability*the communication of the meaning and calculation of the weights is not a concern#null
+Accounting for differences in utility for the same impact*the method can assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility#null
+Accounting for differences in utility for the same impact*the method cannot assign / should not assign different weights to the same impact experienced by individuals living in different socio-economic contexts to reflect their loss of utility#null
+Area of protection metrics*weights should be directly related or relatable to the area of protection metrics#null
+Area of protection metrics*weights are not directly related, but can be adapted to relate to the area of protection metrics#null
+Area of protection metrics*weights are not directly related or relatable to the area of protection metrics#null
+Geographical resolution*national differentiation#null
+Geographical resolution*continental differentiation#null
+Geographical resolution*no geographical differentiation#null
+Global coverage*global weights should be obtained#null
+Global coverage*global weights can be calculated from non-global weights#null
+Global coverage*no global weights are needed#null
+Application demonstrated in case studies*widely used in case studies#null
+Application demonstrated in case studies*used just in a few (e.g., three or four) case studies#null
+Application demonstrated in case studies*it is ok if it has not been used in any case studies#null
+Available resources to apply the method*limited time, cost and manpower available#null
+Available resources to apply the method*notable time and/or cost and/or manpower available#null
+Available resources to apply the method*extensive time, cost and manpower available#null
+Available technical and calculation infrastructure*simple infrastructure#null
+Available technical and calculation infrastructure*both simple and complex infrastructure#null
+Available technical and calculation infrastructure*complex infrastructure#null
+Representativeness*the method should work with a representative sample of the affected population#null
+Representativeness*the method does not need to work with a representative sampling of the affected population#null
+Bias*no known biases can be accepted#null
+Bias*known biases that can be corrected can be accepted#null
+Bias*known biases that cannot be corrected can be accepted#null
